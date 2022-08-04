@@ -1,0 +1,1 @@
+!function(){"use strict";window.onload=()=>{document.querySelector(".load").classList.add("load--hide")}}();
